@@ -1,0 +1,6 @@
+[book]
+authors = ["Ayrat Kaspranov (tramulns)"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hello World!"

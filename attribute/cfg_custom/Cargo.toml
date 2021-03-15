@@ -1,0 +1,12 @@
+[package]
+name = "cfg_custom"
+version = "0.1.0"
+authors = ["Ayrat Kaspranov (tramulns) <user@tramulns.com>"]
+edition = "2018"
+
+[features]
+some_condition = []
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
